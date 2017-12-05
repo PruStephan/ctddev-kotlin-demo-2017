@@ -13,3 +13,4 @@ fun sum(vararg ints: Int): Int {
 }
 
 fun sumFun(vararg ints: Int) = ints.fold(0) { acc, i -> acc + i }
+// All hail Tzeentch
